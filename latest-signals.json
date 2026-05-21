@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-05-21 01:18:59",
+  "top": [
+    {
+      "symbol": "EDEN",
+      "name": "OpenEden",
+      "score": 100,
+      "price": 0.124947,
+      "mc": 22966890,
+      "vol": 198420570,
+      "ch1h": 2.66,
+      "ch24h": 52.24
+    },
+    {
+      "symbol": "FIDA",
+      "name": "Bonfida",
+      "score": 85,
+      "price": 0.03302427,
+      "mc": 32712172,
+      "vol": 163620269,
+      "ch1h": -4.22,
+      "ch24h": 52.88
+    },
+    {
+      "symbol": "BSB",
+      "name": "Block Street",
+      "score": 74,
+      "price": 1.066,
+      "mc": 237559572,
+      "vol": 122345631,
+      "ch1h": 14.56,
+      "ch24h": 26.72
+    }
+  ]
+}
